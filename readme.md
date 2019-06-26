@@ -9,7 +9,7 @@ cd layout
 
 at project root run
 
-npx degit sveltejs/template svelte-app
+    npx degit sveltejs/template svelte-app
 
 cd svelte-app
 
